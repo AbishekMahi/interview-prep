@@ -3,24 +3,6 @@
 **Abishek M** · Full Stack assignment (R1)  
 **Goal:** 8–12 minutes · Speak slowly · Point at code with your cursor
 
-> Personal prep file - delete or keep local before HR submission if you prefer.
-
----
-
-## Before you hit Record
-
-| Step | Action |
-| ------ | -------- |
-| 1 | `npm run dev` (or use live site) |
-| 2 | Open **`https://8byte-abishek.vercel.app`** or `http://localhost:3000` |
-| 3 | Optional: `node -v` - Node **22+** helps full P/E locally |
-| 4 | Close extra tabs · zoom editor ~110% · hide notifications |
-| 5 | Hard refresh once so you know loader vs loaded state |
-
-**Links to mention:** GitHub `AbishekMahi/8byte-assignment` · Vercel `8byte-abishek.vercel.app`
-
----
-
 ## Quick story (memorise this)
 
 > Excel → JSON → API → Yahoo (+ Google backup) → math → UI every 15 sec.
